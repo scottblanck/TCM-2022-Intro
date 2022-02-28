@@ -1,5 +1,7 @@
 import random, sleep
 
+# Hey Scott, be sure to fix this later.
+
 print('This is an awesome idea!')
 print('Now I just have to make it')
 
